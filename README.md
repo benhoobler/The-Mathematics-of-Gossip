@@ -1,6 +1,6 @@
 # The-Mathematics-of-Gossip
 
-The spread of rumors has been described as “infection of the mind” and their spread is analogous to the spread of an infectious disease, such as Ebola. This analogy is made due to information being passed on from carrier to carrier through a network of contacts [6]. Like a disease, the spreading of rumors can be modeled by differential equations and then numerically simulated for different situations. Studying the function provides information on how to suppress rumors from spreading or successfully spread rumors for malicious intent.
+The spread of rumors has been described as “infection of the mind” and their spread is analogous to the spread of an infectious disease, such as Ebola. This analogy is made due to information being passed on from carrier to carrier through a network of contacts. Like a disease, the spreading of rumors can be modeled by differential equations and then numerically simulated for different situations. Studying the function provides information on how to suppress rumors from spreading or successfully spread rumors for malicious intent.
 
 ![alt text](https://github.com/benhoobler/The-Mathematics-of-Gossip/blob/master/Lam_gt_Alph.png)
 
